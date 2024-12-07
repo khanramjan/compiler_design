@@ -1,0 +1,6 @@
+void main()
+
+{
+int a, b, 1c, _abc, ajdfharfhoihfashoiashf;
+float d = a*1.5 + b*2;
+}
